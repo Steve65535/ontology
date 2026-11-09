@@ -1,0 +1,5 @@
+# 原始技术笔记仅在本地保留。
+/tech_details/
+
+# macOS 本地文件。
+.DS_Store
