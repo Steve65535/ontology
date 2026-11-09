@@ -8,6 +8,10 @@ Autelogy 是一个元模型驱动的业务本体平台。它把业务对象、�
 | --- | --- | --- |
 | [产品需求文档](prd/README.md) | 产品、业务负责人、交付团队 | 平台为谁服务、解决什么问题、需要交付哪些能力 |
 | [总体架构](architecture/README.md) | 技术负责人、研发、集成团队 | 核心模型如何组织、模块如何协作、执行与治理如何落地 |
+| [编译器](architecture/compiler.md) | 建模工具与引擎研发 | 业务定义如何转换为模型、SQL、迁移计划和工具 |
+| [执行器](architecture/executor.md) | 引擎研发、集成团队 | Action 如何完成授权、规则判定、事务、级联与预演 |
+| [Function](architecture/functions.md) | 建模者、引擎研发 | 计算如何检查、求值、读取数据和进入沙箱 |
+| [语言关键字](architecture/keywords.md) | 建模者、语言工具研发 | 平台 DSL 有哪些关键字、如何使用、对应什么语义 |
 
 ## 文档口径
 
